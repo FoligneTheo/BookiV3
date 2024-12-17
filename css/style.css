@@ -678,7 +678,7 @@ ul {
 
 
     #search {
-        width: 236px;
+        /* width: 236px; */
         padding-right: 10px;
         border: 2px solid #f2f2f2;
     }
